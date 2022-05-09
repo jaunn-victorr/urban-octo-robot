@@ -5,6 +5,5 @@
     </head>
     <body>
         <h1>Olá SpringBoot!!</h1>
-        <h2>olá,meu nome é João Victor e este é meu primeiro projeto em JSP</h2>
     </body>
 </html>
